@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[See Deployed Version](https://robinhood-clone-d5ff9.web.app/)
+![See Deployed Version](https://robinhood-clone-d5ff9.web.app/)
 
 ## Available Scripts
 
